@@ -1,0 +1,9 @@
+﻿<Application x:Class="Zhaoxi.StudyBoard.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Zhaoxi.StudyBoard"
+             StartupUri="Views/MainView.xaml">
+    <Application.Resources>
+        <ResourceDictionary Source="/Assets/Styles/ComboBoxStyle.xaml"/>
+    </Application.Resources>
+</Application>
